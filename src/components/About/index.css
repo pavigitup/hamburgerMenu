@@ -1,0 +1,12 @@
+.home-con {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+.about-img {
+  width: 100%;
+}
